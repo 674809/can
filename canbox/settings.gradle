@@ -1,0 +1,3 @@
+include ':aidlcalient'
+include ':app'
+rootProject.name = "CanBox"
